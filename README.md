@@ -5,4 +5,4 @@ The aim of the project is to predict a day's sales in each product category and 
 
 The overall model is a combination of smaller XGBoost models for each family of products and for each day on the prediction horizon. 
 
-Final predictions placed in top 30% of submissions based on RMSLE of the test set. 
+Final predictions placed in top 30% of submissions based on RMSLE: 0.49391 of the test set. 
